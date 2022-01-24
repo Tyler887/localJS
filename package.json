@@ -6,9 +6,6 @@
 
   "version": "1.0.0",
 
-  "scripts": {
-
-    "test": "serve.js"
 
   },
 
@@ -20,7 +17,7 @@
 
   },
 
-  "keywords": [localhost],
+  "keywords": "host,
 
   "author": "Tyler887",
 
